@@ -127,7 +127,7 @@ pixels, typically about 175 KB after DEFLATE, delivered in roughly 70 ms.
 ## Build and test
 
 ```sh
-git clone https://github.com/im4vk-avalara/terminal-linux.git
+git clone https://github.com/im4vk/terminal-linux.git
 cd terminal-linux
 bash scripts/build.sh          # → dist/TerminalLinux.app and the dist/terminal-linux launcher
 bash scripts/test.sh           # all offline tests: Python helper + Swift host (incl. Swift↔Python protocol)
